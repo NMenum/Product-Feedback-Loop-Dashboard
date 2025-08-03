@@ -20,3 +20,13 @@ This project simulates how user feedback is collected, categorized, and translat
 
 ## ✨ Inspired By
 -online banking website
+## 🏦 Banking-Specific Scenarios
+
+This dashboard has been extended to simulate support cases from an online banking environment. These scenarios are designed to showcase how real-world issues like login failures, 2FA breakdowns, or transaction errors are reported, categorized, and summarized for resolution.
+
+### 🧾 Examples
+- 🔐 Login session timeout on multiple browsers
+- 📲 Transaction failures after OTP verification
+- 🧭 Suggestions for clearer UI messaging and incident handling
+
+These cases demonstrate an understanding of fintech workflows, high-impact user touchpoints, and the importance of rapid support triage in regulated environments.
