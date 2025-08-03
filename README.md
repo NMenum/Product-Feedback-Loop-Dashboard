@@ -19,5 +19,4 @@ This project simulates how user feedback is collected, categorized, and translat
 - Git (basic)
 
 ## ✨ Inspired By
-- Kagi Search
-- Orion Browser
+-online banking website
